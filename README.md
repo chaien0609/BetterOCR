@@ -40,7 +40,7 @@ Allows users to provide an optional context to use specific keywords such as pro
 - Head over to [💯 Examples](#-Examples) to view performace by languages (🇺🇸, 🇰🇷, 🇮🇳).
 - Coming Soon: ~~box detection~~ 🧪✅, improved interface 🚧, async support, and more. Contributions are welcomed.
 
-> **Warning**<br/>
+> [!WARNING]
 > This package is under rapid development 🛠
 
 <a href="https://github.com/junhoyeo">
@@ -125,7 +125,7 @@ print(items)
 
 ## 💯 Examples
 
-> **Note**<br/>
+> [!NOTE]
 > Results may vary due to inherent variability and potential future updates to OCR engines or the OpenAI API.
 
 ### Example 1 (English with Noise)
